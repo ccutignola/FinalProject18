@@ -6,6 +6,7 @@ outside the range of 4 and you cannot insert a piece into a column that is alrea
 
 Flowchart: https://drive.google.com/file/d/1mPBaEzMegXhcMLMQ8jCPsgu0DELSKC28/view?usp=sharing
 
+Presentation: https://docs.google.com/presentation/d/1XkxIE3Rni9A44hJI2w7J-yvdUVxh7TBIQv0S8SNKiFo/edit#slide=id.g4e79c3d673_0_133
 
 Sources: https://docs.python.org/3/tutorial/errors.html
 https://codereview.stackexchange.com/questions/134636/python-connect-four
